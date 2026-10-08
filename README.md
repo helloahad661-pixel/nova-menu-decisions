@@ -15,5 +15,4 @@ codesign --force --sign - --identifier com.nova.menu NovaMenu.app
 ```
 
 Needs Xcode command-line tools and a decision endpoint (Nova uses Laya on
-port 8767). Maintained in Nova by `laya_agent`. Extracted from the Nova
-monorepo as a portfolio piece.
+port 8767). Part of [Nova](https://github.com/helloahad661-pixel/Nova), my macOS assistant system — `laya_agent` looks after this piece.
